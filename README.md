@@ -1,2 +1,2 @@
-# Read-only-Agent
+# Local GPT
 local CLI website advisor.
